@@ -1,4 +1,4 @@
-# Análise de Dados da Magazine Capivara
+# Análise de Dados do projeto Capivara
 
 Este projeto utiliza **Pandas** e **Matplotlib** para analisar dados e gerar insights estratégicos para a Magazine Capivara. O foco é responder a perguntas-chave sobre lucratividade, satisfação do cliente, desempenho regional e crescimento de novos clientes.
 
